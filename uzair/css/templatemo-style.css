@@ -178,7 +178,7 @@ h5 {
 }
 #home::after {
   content: "";
-  background: url(./images/IMG_3822.jpg);
+  background: url(images/IMG_3822.jpg);
   background-size: 100vw;
   background-repeat: no-repeat;
   opacity: 0.3;
